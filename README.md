@@ -1,2 +1,2 @@
 # javascript-site
- Site built completely fro javascript html css
+ Site built completely from javascript html css
